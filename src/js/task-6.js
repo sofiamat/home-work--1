@@ -1,2 +1,2 @@
 const myNull = null;
-console.log(myNull)
+console.log(myNull);
