@@ -1,3 +1,3 @@
-let myNumber = 12
-const addition = 10
-console.log(myNumber + addition)
+let myNumber = 12;
+myNumber = myNumber + 10;
+console.log(myNumber)

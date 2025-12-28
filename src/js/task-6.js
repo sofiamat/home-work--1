@@ -1,2 +1,2 @@
-const myNull = null
+const myNull = null;
 console.log(myNull)
